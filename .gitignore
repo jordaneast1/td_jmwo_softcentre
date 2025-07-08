@@ -1,0 +1,5 @@
+# ignore all files in td backup directory
+Backup/
+
+# ignore all files in Media directory
+Media/
