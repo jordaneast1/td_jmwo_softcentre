@@ -3,3 +3,6 @@ Backup/
 
 # ignore all files in Media directory
 Media/
+
+# ignore toe iterations
+*.*.toe
