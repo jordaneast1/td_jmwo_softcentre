@@ -6,3 +6,6 @@ Media/
 
 # ignore toe iterations
 *.*.toe
+
+#ignore crash files
+*.dmp
