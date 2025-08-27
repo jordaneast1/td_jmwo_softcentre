@@ -10,3 +10,6 @@ Media_Transcoded/
 
 #ignore crash files
 *.dmp
+
+*.mov
+*.mp4
